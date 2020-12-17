@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SQLite_Demo</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="no_record_message">No record</string>
+
+    <string name="error_phone">Please enter phone</string>
+    <string name="error_name">Name please</string>
+    <string name="error_email">Email please</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="action_favorite">Favorite</string>
+
+<!--    Bundle String-->
+    <string name="user_record">USER RECORD</string>
+</resources>
